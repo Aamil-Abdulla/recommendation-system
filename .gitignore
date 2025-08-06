@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore any other large files
+rec-sys-env/Lib/site-packages/clang/native/libclang.dll
+.DS_Store
